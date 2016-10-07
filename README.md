@@ -2,6 +2,8 @@
 
 This is the source code of Mirai source which was used to attack against [Krebs On Security](https://krebsonsecurity.com/) recently. The code was released on [Hack Forums](http://hackforums.net/showthread.php?tid=5420472). Here's a post on [Krebs On Security](https://krebsonsecurity.com/2016/10/source-code-for-iot-botnet-mirai-released/).
 
+_Disclaimer: Not my original work. For educational purposes._
+
 ## Forum Post
 
 Below is the forum post from hackforums with slight modifications for better viewing and links to the files in this repo:
