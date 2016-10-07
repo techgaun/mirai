@@ -24,8 +24,8 @@ And to everyone that thought they were doing anything by hitting my CNC, I had g
 
 Also, shoutout to this blog post by malwaremustdie:
 
-- [http://blog.malwaremustdie.org/2016/08/mmd-0056-2016-linuxmirai-just.html](blog.malwaremustdie.org)
-- [https://web.archive.org/web/20160930230210/http://blog.malwaremustdie.org/2016/08/mmd-0056-2016-linuxmirai-just.html](archive.org copy) <- backup in case low quality reverse engineer unixfreaxjp decides to edit his posts lol
+- [blog.malwaremustdie.org](http://blog.malwaremustdie.org/2016/08/mmd-0056-2016-linuxmirai-just.html)
+- [archive.org copy](https://web.archive.org/web/20160930230210/http://blog.malwaremustdie.org/2016/08/mmd-0056-2016-linuxmirai-just.html) <- backup in case low quality reverse engineer unixfreaxjp decides to edit his posts lol
 
 Had a lot of respect for you, thought you were good reverser, but you really just completely and totally failed in reversing this binary. "We still have better kung fu than you kiddos" don't make me laugh please, you made so many mistakes and even confused some different binaries with my. LOL
 
